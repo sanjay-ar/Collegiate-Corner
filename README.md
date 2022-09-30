@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img alt="Demo" src="./Assets/venues.mp4" />
+  <img alt="Demo" src="./Assets/venues.gif" />
 </div>
 
 </div>
