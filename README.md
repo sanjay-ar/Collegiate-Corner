@@ -26,6 +26,7 @@
 - Easy SignIn with Google
 - Create Rooms
 - Realtime Intreaction With Students
-- Supports Emoji
+- Supports Document Upload
 - Reaction on messages
+
 
