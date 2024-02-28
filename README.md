@@ -7,7 +7,7 @@ Certainly! Here's a README template tailored for a room chatter application buil
 Room Chatter is a real-time chat application designed to facilitate seamless communication and collaboration among students. It allows users to sign in easily with Google, create rooms for specific topics or discussions, exchange messages in real-time, upload documents, and react to messages.
 
 <div align="center">
-  <img alt="Room Chatter Demo" src="./Collegiate-Corner-venues.gif" />
+  <img alt="Demo" src="./venues.gif" />
 </div>
 
 ## Features
