@@ -94,7 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to Firebase for providing real-time database and authentication services.
 - Material UI and React Icons for the sleek and intuitive user interface.
-
----
-
-Feel free to customize this README template to match the specifics of your project. If you have any questions or need further assistance, please let me know!
