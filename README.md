@@ -64,7 +64,14 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Create a new Pull Request.
 
-## License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### 🚀 Maintained by [Sanjay A R](https://github.com/sanjay-ar)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel)](https://portfolio-ar.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay%20A%20R-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanjay-ar/)  
+[![GitHub](https://img.shields.io/badge/GitHub-sanjay--ar-black?style=flat-square&logo=github)](https://github.com/sanjay-ar)
+
+> 💡 *Like this project? Leave a ⭐ and connect with me!*
+
 
